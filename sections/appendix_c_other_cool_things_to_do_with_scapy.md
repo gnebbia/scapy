@@ -1,4 +1,5 @@
-https://guedou.github.io/talks/2017_BalCCon2k17/Scapy%20in%200x30%20minutes.slides.html#/44
+
+[scapy in 30 minutes](https://guedou.github.io/talks/2017_BalCCon2k17/Scapy%20in%200x30%20minutes.slides.html#/44)
 * advanced traceroute
 * firewalking
 * fuzzing of protocol implementations
