@@ -1,4 +1,3 @@
-
 ## Scapy not working normally on loopback interface
 
 Read here:

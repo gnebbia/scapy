@@ -20,7 +20,3 @@ for packet in pkts:
         filtered += packet
 ```
 
-
-
-
-

@@ -57,4 +57,3 @@ layers, so let's see some examples of reasonable packets:
 - `Ether()/Dot1Q()/IP()/TCP()`
 - `Ether()/IP(dst="www.slashdot.org")/TCP()/"GET /index.html HTTP/1.0 \n\n"`
 
-
